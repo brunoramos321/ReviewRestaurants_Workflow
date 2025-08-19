@@ -12,7 +12,7 @@ I’m a foodie, and I wanted something original that actually keeps me updated o
 ---
 
 ## 🚀 Workflow Overview  
-images/Workflow.png 
+(images/Workflow.png) 
 
 ---
 
